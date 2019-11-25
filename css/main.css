@@ -1,1 +1,37 @@
 /* insert you css */
+
+body{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12a9a007-14ec-43cf-b7a5-5e9983048fd0/dao1ia7-703c658a-d252-42b1-b232-9f6ff9641509.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyYTlhMDA3LTE0ZWMtNDNjZi1iN2E1LTVlOTk4MzA0OGZkMFwvZGFvMWlhNy03MDNjNjU4YS1kMjUyLTQyYjEtYjIzMi05ZjZmZjk2NDE1MDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k8VnWQpFHgZgLxztu0bAyhxrtmnLLZUC2GwQrS6vhpo)
+}
+
+h1 {
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+    font-size: 100px;
+}
+
+p {
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+    font-size: 25px;
+    font-style: bold;
+
+}
+
+h2 {
+    font-family: Courier New, Courier, monospace;
+    font-size: 15px;
+}
+
+.with_border{
+    border: dotted 3px black;
+    padding: 50px;
+}
+
+.no_border{
+    padding: 50px;
+}
+
+.margine_under{
+    margin-bottom: 20px;
+}
